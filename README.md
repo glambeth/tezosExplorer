@@ -1,2 +1,2 @@
-# tezosExplorer
-Tezos blockchain explorer
+# tezoscha.in
+Tezos Blockchain Explorer
